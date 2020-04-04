@@ -3,6 +3,158 @@
   <component name="ChangeListManager">
     <list default="true" id="68864da9-ae25-4b20-8fe6-553e65ee93c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/css/child-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/css/child-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/css/child-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/css/child-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/gulpconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/js/child-theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/js/child-theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/assets/bootstrap4.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/assets/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/assets/underscores.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/assets/understrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/child-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/theme/_child_theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/sass/theme/_child_theme_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/js/bootstrap4/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/js/bootstrap4/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/js/bootstrap4/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/js/bootstrap4/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/js/custom-javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/bootstrap4/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/fontawesome/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/underscores/_captions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/underscores/_galleries.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/underscores/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/assets/bootstrap4.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/assets/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/assets/underscores.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/custom-editor-style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/theme/_contact-form7.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/theme/_theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/theme/_theme_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/understrap/understrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/src/sass/understrap/understrap/woocommerce.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/understrap-child-master/yarn.lock" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,40 +180,64 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="json" value="2" />
-          <entry key="php" value="2" />
+          <entry key="lock" value="1" />
+          <entry key="php" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="2" />
-          <entry key="PHP" value="2" />
+          <entry key="PHP" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="yarn.lock" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#6#190#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-activate.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>phpinfo</find>
+      <find>navbar area</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -74,7 +250,6 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/wp-content/themes/understrap-child-master/package.json" />
       <path value="$PROJECT_DIR$/wp-content/themes/understrap/package.json" />
     </packageJsonPaths>
   </component>
@@ -99,6 +274,12 @@
               <item name="approvemedia" type="b2602c69:ProjectViewProjectNode" />
               <item name="approvemedia" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="approvemedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="approvemedia" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,17 +319,18 @@
       <option name="presentableId" value="Default" />
       <updated>1585986192571</updated>
       <workItem from="1585986194986" duration="524000" />
-      <workItem from="1585987007505" duration="4122000" />
+      <workItem from="1585987007505" duration="6535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4646000" />
+    <option name="totallyTimeSpent" value="7059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1679" y="0" width="1593" height="1077" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25308242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25308242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -161,7 +343,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -177,6 +359,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-activate.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -186,11 +381,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child-master/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/understrap-child-master/yarn.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-activate.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
